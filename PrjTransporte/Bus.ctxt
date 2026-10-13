@@ -1,0 +1,15 @@
+#BlueJ class context
+#Tue Oct 13 13:34:19 CST 2026
+comment0.target=Bus
+comment0.text=\r\n Bus que cubre una ruta y cobra el pasaje a las personas pasajeras.\r\n
+comment1.params=pPlaca pCapacidad
+comment1.target=Bus(java.lang.String, int)
+comment2.target=java.lang.String consultarNombreRuta()
+comment3.target=java.lang.String getCodigo()
+comment4.target=java.lang.String getPlaca()
+comment5.target=int getCapacidad()
+comment6.target=int getPersonasAtendidas()
+comment7.target=double getTotalRecaudado()
+comment8.target=int getCantidadBuses()
+comment9.target=java.lang.String toString()
+numComments=10

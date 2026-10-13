@@ -1,0 +1,27 @@
+#BlueJ class context
+#Tue Oct 13 13:34:19 CST 2026
+comment0.target=Ruta
+comment0.text=\r\n Ruta de autob\u00FAs\: tiene un recorrido de paradas (agregaci\u00F3n)\r\n y sus horarios de salida (composici\u00F3n).\r\n
+comment1.params=pCodigo pNombre pTarifa
+comment1.target=Ruta(java.lang.String, java.lang.String, double)
+comment10.target=double getTarifa()
+comment11.params=pParada
+comment11.target=boolean existeParada(Parada)
+comment12.params=pHora pMinuto
+comment12.target=boolean esHorarioValido(int, int)
+comment13.target=java.lang.String toString()
+comment2.params=pParada
+comment2.target=void agregarParada(Parada)
+comment2.text=Agrega una parada al recorrido; si ya forma parte de \u00E9l, se ignora.
+comment3.params=pHora pMinuto
+comment3.target=void registrarSalida(int, int)
+comment3.text=Registra un horario de salida; si est\u00E1 fuera de rango, no se registra.
+comment4.params=pHora
+comment4.target=void registrarSalida(int)
+comment4.text=Registra una salida en punto (minuto \= 0).
+comment5.target=java.lang.String consultarNombresParadas()
+comment6.target=java.lang.String consultarHorariosSalida()
+comment7.target=int consultarCantidadHorarios()
+comment8.target=java.lang.String getCodigo()
+comment9.target=java.lang.String getNombre()
+numComments=14

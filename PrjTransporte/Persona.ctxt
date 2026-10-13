@@ -1,0 +1,15 @@
+#BlueJ class context
+#Tue Oct 13 13:34:19 CST 2026
+comment0.target=Persona
+comment0.text=\r\n Persona pasajera. Su condici\u00F3n determina el descuento del pasaje.\r\n
+comment1.params=pNombre pCondicion
+comment1.target=Persona(java.lang.String, java.lang.String)
+comment2.params=pNombre
+comment2.target=Persona(java.lang.String)
+comment3.target=java.lang.String getNombre()
+comment4.target=java.lang.String getCondicion()
+comment5.params=pCondicion
+comment5.target=java.lang.String normalizarCondicion(java.lang.String)
+comment5.text=Si la condici\u00F3n no es reconocida, la persona queda como regular.
+comment6.target=java.lang.String toString()
+numComments=7

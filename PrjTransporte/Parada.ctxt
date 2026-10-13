@@ -1,0 +1,10 @@
+#BlueJ class context
+#Tue Oct 13 13:34:19 CST 2026
+comment0.target=Parada
+comment0.text=\r\n Parada de autob\u00FAs. Existe de forma independiente de las rutas.\r\n
+comment1.params=pCodigo pNombre
+comment1.target=Parada(java.lang.String, java.lang.String)
+comment2.target=java.lang.String getCodigo()
+comment3.target=java.lang.String getNombre()
+comment4.target=java.lang.String toString()
+numComments=5
